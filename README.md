@@ -21,6 +21,7 @@ console.log('Copy Token:', token);
 ```
 4️⃣ Copy the token and paste it into the dulieu.txt file.
 ⇢ Use one token per line.
+
 5️⃣ Run bot.exe.
 
 Proxy Format:
